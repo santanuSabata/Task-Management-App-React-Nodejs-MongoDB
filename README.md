@@ -1,10 +1,10 @@
 # 🚀 Task Management Web & Mobile Application
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/your-repo-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo-name?style=social)
-![Issues](https://img.shields.io/github/issues/your-username/your-repo-name)
-![License](https://img.shields.io/github/license/your-username/your-repo-name)
+![GitHub repo size](https://img.shields.io/github/repo-size/santanuSabata/Task-Management-App-React-Nodejs-MongoDB)
+![GitHub stars](https://img.shields.io/github/stars/santanuSabata/Task-Management-App-React-Nodejs-MongoDB)
+![GitHub forks](https://img.shields.io/github/forks/santanuSabata/Task-Management-App-React-Nodejs-MongoDB?style=social)
+![Issues](https://img.shields.io/github/issues/santanuSabata/Task-Management-App-React-Nodejs-MongoDB)
+![License](https://img.shields.io/github/license/santanuSabata/Task-Management-App-React-Nodejs-MongoDB)
 
 ---
 
