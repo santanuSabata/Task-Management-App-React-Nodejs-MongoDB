@@ -91,9 +91,9 @@ This project features a modern UI, scalable backend, and real-time task updates 
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
+git clone https://github.com/santanuSabata/Task-Management-App-React-Nodejs-MongoDB.git
+cd Task-Management-App-React-Nodejs-MongoDB
+
 
 ### 2️⃣ Install Dependencies
 
@@ -147,7 +147,21 @@ npm start
 * Backend API: `http://localhost:5000`
 
 ---
+### Built With
 
+This section highlights the key frameworks and libraries that form the foundation of your project. Below are some notable examples:
+
+
+- **[![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)](https://www.typescriptlang.org/):** A superset of JavaScript that adds static types.
+- **[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript):** The programming language of 
+- **[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/):** The database for modern applications.
+- **[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/):** Cloud platform for serverless deployment and hosting.
+- **[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/):** Pluggable linting utility for identifying and fixing code issues.
+- **[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/):** Opinionated code formatter to ensure consistent code styling the web.
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## 📂 Project Structure
 
 ```
