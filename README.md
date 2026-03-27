@@ -55,17 +55,34 @@ This project features a modern UI, scalable backend, and real-time task updates 
 
 ## 📸 Screenshots
 
-### 🖥️ Web Dashboard
 
-![Dashboard Screenshot](https://via.placeholder.com/1000x500?text=Dashboard+Screenshot)
+#### All Tasks
+ 
+ ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996619/2_xv3ljv.png)
+ 
+ - To change the status of a task to "Complete" and update its date to the date when it was completed.
+ 
 
-### 📱 Mobile View
+### 2. Add Task
+  ### Add a new Task
 
-![Mobile Screenshot](https://via.placeholder.com/400x800?text=Mobile+View)
+   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996633/3_ock8xg.png)
 
-### 📊 Task Management UI
+- We can add or remove Tasks.
 
-![Task UI](https://via.placeholder.com/1000x500?text=Task+Management+UI)
+    ### Filter Tasks
+
+   ![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711998055/6_fiiti1.png)
+
+-  Allows users to easily filter tasks by date, status, and priority, providing a streamlined and efficient task management experience.
+
+
+
+### 3. Mobile App and Responsive Design
+
+#### Mobile App
+
+![attendance](https://res.cloudinary.com/dky3cpvtf/image/upload/v1711996674/5_dndm7s.png)
 
 ---
 
