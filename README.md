@@ -159,10 +159,8 @@ This section highlights the key frameworks and libraries that form the foundatio
 - **[![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/):** Pluggable linting utility for identifying and fixing code issues.
 - **[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white)](https://prettier.io/):** Opinionated code formatter to ensure consistent code styling the web.
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-## 📂 Project Structure
+---
+### 📂 Project Structure
 
 ```
 task-management-app/
